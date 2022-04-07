@@ -94,4 +94,7 @@ With Atala PRISM, everyone can restore their account and personal data on any de
 https://atalaprism.io/resources
 
 
+![Screen Shot 2022-04-07 at 2 50 23 PM](https://user-images.githubusercontent.com/28788001/162275745-df6a47eb-64ae-4a4f-95b3-fd516df1144b.png)
+![Screen Shot 2022-04-07 at 2 51 15 PM](https://user-images.githubusercontent.com/28788001/162275756-27c107d9-fe2c-41d2-add9-de9bf1438118.png)
+![Screen Shot 2022-04-07 at 2 52 36 PM](https://user-images.githubusercontent.com/28788001/162275973-d5db70ce-f2a0-42c9-883c-a76b9037bd09.png)
 
