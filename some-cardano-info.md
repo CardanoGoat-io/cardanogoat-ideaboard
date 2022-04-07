@@ -1,5 +1,18 @@
 ## Why Cardano
 
+https://cardano.org/discover-cardano/#technology
+
+https://cardano.org/enterprise#finance
+
+https://cardano.org/discover-cardano/#purpose
+
+https://cardano.org/discover-cardano/#people
+
+https://cardano.org/discover-cardano/#research
+
+https://cardano.org/stake-pool-delegation/
+
+
 Cardano is a proof-of-stake blockchain platform: the first to be founded on peer-reviewed research and developed through evidence-based methods. It combines pioneering technologies to provide unparalleled security and sustainability to decentralized applications, systems, and societies.
 
 With a leading team of engineers, Cardano exists to redistribute power from unaccountable structures to the margins – to individuals – and be an enabling force for positive change and progress.
